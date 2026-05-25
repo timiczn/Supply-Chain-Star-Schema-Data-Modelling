@@ -134,7 +134,4 @@ All six validation tests were run and passed after the model was built.
 - DAX
 
 
-### Dataset
-
-DataCo Global Supply Chain Dataset: 180,519 rows, 53 columns. Covers order transactions across 5 markets: Europe, LATAM, Pacific Asia, USCA, and Africa.
 
